@@ -1,0 +1,4 @@
+total number:100000
+count uper limit:15
+count lower limit:8
+count limit:20
